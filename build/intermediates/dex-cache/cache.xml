@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_b872f03fcac2079953450fcc135bcd6790862ca6\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_bef7fe78abde79789b53c98bc12bb6fb57764a04\classes.dex" />
+    </item>
+    <item
+        jar="D:\reneu\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_39f43bb74d50a8a1f3361ff2995d720f76363fa3\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_84fd53658f2fee9b3779de203cffd13f1833b54e\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c29b51af22df28dbf2fc274296a413e3db877b02\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\libs\httpcore-4.4.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.4.1_4c98afd939b2172ac7f86f978d9851bcea1cc8fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\libs\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.2.4_c03d1e96408c06e73b30bc740859c08ed66a46f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_aed0c8a512f0f03d527d434dd6726a9265024d4b\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_26f1c40ea90511bc125be3b84216d768844e409f\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_bcd5393df671bb9bbb3ee9abed1a0ce55b8fa0ba\classes.dex" />
+    </item>
+    <item
+        jar="D:\reneu\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_c96429a126fcc6794fe4a9be8af119efbb37cb20\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08225551ae57189f5b27623097006a9ec3c8c46a">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fb928cdd975954c016759b0ffae7ddcdea3ee0df\classes.dex" />
+    </item>
+    <item
+        jar="D:\reneu\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_cd321c81379b45459e69cac5c40114c254813f53\classes.dex" />
+    </item>
+    <item
+        jar="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1bb4d147b2198bbcd534bb61de9d0b885f8ec512">
+        <dex dex="C:\ReneStuff\Projects\WattsApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1bfecf6f0cbec2b018c867b7f1659ebd12cff6b2\classes.dex" />
+    </item>
+
+</items>

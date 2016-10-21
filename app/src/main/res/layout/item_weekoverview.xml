@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:useDefaultMargins="true"
+    android:alignmentMode="alignBounds"
+    android:columnOrderPreserved="false"
+
+    android:columnCount="4"
+    >
+
+
+    <TextView
+        android:text="Week:"
+
+        android:layout_gravity="right"
+        />
+
+    <EditText
+        android:ems="4"
+        android:id="@+id/edWeekwo"
+        />
+
+    <TextView
+        android:text="Afstand:"
+        android:layout_width="wrap_content"
+        android:layout_column="2"
+        android:layout_gravity="right"
+        />
+    <EditText
+
+        android:layout_column="3"
+        android:ems="4"
+        android:id="@+id/edAfstandwo"
+        />
+
+    <TextView
+        android:text="Tot. Suffer score"
+
+        android:layout_column="0"
+        android:layout_gravity="right"
+        />
+
+    <EditText
+        android:ems="4"
+        android:id="@+id/edSufferwo"
+        />
+    <TextView
+        android:text="Avg HR"
+
+        android:layout_column="2"
+        android:layout_gravity="right"
+        />
+
+    <EditText
+        android:ems="4"
+        android:layout_column="3"
+        android:id="@+id/avghrwo"
+        />
+
+    <TextView
+        android:text="--------------------------------------------------------------------"
+        android:textSize="16dip"
+
+        android:layout_columnSpan="4"
+        android:layout_gravity="left"
+        />
+
+
+</GridLayout>
